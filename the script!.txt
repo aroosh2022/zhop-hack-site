@@ -1,0 +1,3 @@
+script : loadstring(game:HttpGet("https://cutt.ly/TVgsvYc", true))()
+
+no bypass , made by aroosh (me lol)
